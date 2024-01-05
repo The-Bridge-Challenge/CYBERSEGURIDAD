@@ -1,7 +1,7 @@
 # Ciberseguridad
 
 ## Guía de Verticales
-Para obtener más información sobre las tecnologías y herramientas utilizadas en las distintas verticales y en que van a invertir su tiempo, ~~TLTR: jugando al lol o 'investigando' cideos online~~ consulta la [Guía de Verticales](Guia_Verticales_Simple.md).
+Para obtener más información sobre las tecnologías y herramientas utilizadas en las distintas verticales ycomo van a organizar su tiempo de trabajo, ~~TLTR: jugando al LoL o 'profundizando' en algunos videos online~~  consulta la [Guía de Verticales](Guia_Verticales_Simple.md).
 Y si eres un niño rata como yo consultar la [Guía de Verticales Rata](Guia_Verticales_Extendida.md).
 
 ## Contexto y Análisis de Riesgos
