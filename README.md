@@ -2,7 +2,7 @@
 
 ## Guía de Verticales
 Para obtener más información sobre las tecnologías y herramientas utilizadas en las distintas verticales y como van a organizar su trabajo, ~~TLTR: jugando al LoL o 'profundizando' en algunos videos online~~  consulta la [Guía de Verticales](Guia_Verticales_Simple.md).
-Y si eres un niño rata como yo consultar la [Guía de Verticales Rata](Guia_Verticales_Extendida.md).
+Y si eres un niño rata como yo consultar la [Guía de Verticales Extendida](Guia_Verticales_Rata.md).
 
 ## Contexto y Análisis de Riesgos
 - Analizar el contexto funcional de la aplicación para identificar elementos críticos y susceptibles a ataques.
