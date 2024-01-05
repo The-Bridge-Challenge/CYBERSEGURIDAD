@@ -1,5 +1,9 @@
 # Ciberseguridad
 
+## Guía de Verticales
+Para obtener más información sobre las tecnologías y herramientas utilizadas en las distintas verticales de nuestro proyecto, consulta la [Guía de Verticales](Guia_Verticales_Simple.md).
+Y si eres un niño rata como yo consultar la [Guía de Verticales_Rata](Guia_Verticales_Extendida.md).
+
 ## Contexto y Análisis de Riesgos
 - Analizar el contexto funcional de la aplicación para identificar elementos críticos y susceptibles a ataques.
 - Evaluar el impacto técnico y de negocio de posibles brechas de seguridad y asegurar que el diseño cumple con las buenas prácticas del SSDLC.
