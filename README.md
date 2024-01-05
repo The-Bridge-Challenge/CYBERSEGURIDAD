@@ -22,6 +22,8 @@ Utilizar la metodología del OWASP Top 10 para identificar y mitigar las princip
 - **A09:2021-Security Logging and Monitoring Failures**
 - **A10:2021-Server-Side Request Forgery (SSRF)**
 
+ Guía detallada aplicada al proyecto nuestro en [Guía de Ciberseguridad OWASP Top 10](OWASP10_Guide.md).
+
 Además, implementar pruebas específicas de seguridad, incluyendo:
 - Information Gathering
 - Configuration and Deployment Management Testing
