@@ -1,30 +1,43 @@
+# Ciberseguridad para el Proyecto
 
-# Cybersecurity Plan for MVP
+## Contexto y Análisis
+- Comprender en detalle el contexto funcional de la aplicación para identificar elementos sensibles y potencialmente vulnerables.
+- Determinar el impacto técnico y de negocio de posibles brechas de seguridad.
+- Asegurar que el diseño sigue las buenas prácticas del Secure Software Development Life Cycle (SSDLC).
 
-## Configuración Segura del Entorno de Desarrollo
-- Establecer prácticas de seguridad para el entorno de desarrollo utilizando Ubuntu.
-- Configurar las reglas de firewall de Ubuntu para restringir el acceso no autorizado.
-- Desactivar servicios innecesarios y cerrar puertos no utilizados en el servidor.
+## Hardening y Configuración de Seguridad
+- Realizar hardening de los sistemas operativos Ubuntu en la nube y de los aplicativos utilizados, como Node.js y React.
+- Mantener actualizadas las configuraciones de seguridad y aplicar parches de forma regular.
+- Proponer y documentar una infraestructura de despliegue escalable, modular y extensible.
 
-## Autenticación y Acceso
-- Implementar controles de acceso sólidos para el entorno de desarrollo, incluyendo el uso de claves SSH para acceso remoto.
-- Preparar la integración de autenticación multifactor para la aplicación.
+## Autenticación y Control de Acceso
+- Implementar controles de acceso robustos y autenticación multifactor.
+- Realizar Identity Management Testing para asegurar la gestión adecuada de identidades y accesos.
 
-## Gestión de Dependencias y Código Seguro
-- Utilizar herramientas como npm audit para revisar y manejar vulnerabilidades.
-- Seguir prácticas de programación segura durante el desarrollo del MVP.
-
-## Pruebas de Seguridad Básicas
-- Realizar análisis estático de código utilizando herramientas adecuadas.
-- Hacer pruebas manuales básicas de seguridad.
-
-## Hardening del Sistema Operativo
-- Aplicar un hardening básico del sistema operativo Ubuntu.
-- Asegurar la configuración protegida de MongoDB y SQL.
+## Protección de Datos
+- Cifrar los datos sensibles, tanto en tránsito como en reposo.
+- Implementar y probar medidas para la validación de parámetros de entrada y manejo de errores.
 
 ## Backup y Recuperación
-- Implementar una solución simple de backup para la base de datos.
-- Documentar el proceso de backup y recuperación.
+- Establecer y documentar una estrategia de backup, incluyendo cálculos de costes y periodos de conservación.
+- Analizar la sensibilidad de los datos almacenados.
 
-## Documentación de Seguridad
-- Crear documentación básica que describa las medidas de seguridad implementadas.
+## Pruebas de Seguridad
+- Utilizar herramientas de análisis de código estático durante el desarrollo.
+- Realizar pruebas básicas de pentesting al finalizar el desarrollo.
+- Incluir pruebas específicas de:
+  1. Information Gathering.
+  2. Configuration and Deployment Management Testing.
+  3. Identity Management Testing.
+  4. Authentication Testing.
+  5. Authorization Testing.
+  6. Session Management Testing.
+  7. Input Validation Testing.
+  8. Error Handling Testing.
+  9. Testing for Weak Cryptography.
+  10. Business Logic Testing.
+  11. Client-side Testing.
+
+## Cumplimiento Normativo
+- Asegurar el cumplimiento con normativas como GDPR.
+- Documentar todos los procesos y políticas de seguridad implementados.
