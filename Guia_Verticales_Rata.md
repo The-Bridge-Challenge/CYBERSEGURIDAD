@@ -127,3 +127,72 @@
 - Mantener una documentación detallada de todas las fases del proyecto, incluyendo análisis, decisiones técnicas y resultados obtenidos.
 - Documentar los procesos de investigación, extracción de datos, análisis, modelado de ML y monitorización.
 
+
+
+# Guía de Diseño de Producto Digital UX/UI
+
+## UX: Research y Estrategia
+- Realizar una investigación para definir el alcance del producto digital y su target principal.
+- Identificar el problema o necesidad central del tema.
+- Ejecutar un benchmark y identificar oportunidades viables, acotándolas con el cliente.
+- Utilizar el canvas de negocio para identificar el modelo de negocio y redactar la propuesta de valor.
+- Crear el user persona y mapear los customer journeys, así como otras herramientas para entender a los usuarios.
+- Idear y sintetizar las funcionalidades del producto digital mediante técnicas de generación de ideas.
+
+## Conceptualización de UX
+- Diseñar el wireflow (combinación de wireframes y flowchart) y validarlo con el equipo.
+
+## UI: Diseño de Interfaz
+- Diseñar la interfaz, incluyendo el estilo visual y la imagen de marca, de forma comprensible para el equipo.
+- Crear un sistema de diseño que abarque:
+  - Paletas de colores.
+  - Tipografías.
+  - Componentes con variantes, utilizando técnicas como autolayout y constrains.
+- Elaborar un prototipo navegable con efectos de animación como overlay y transiciones de smart animate.
+- Presentar y argumentar las pantallas diseñadas.
+
+## Desarrollo y Directrices Específicas
+- Investigar y definir la experiencia de usuario, mapeando el viaje del cliente y definiendo personas.
+- Diseñar wireframes, mockups y prototipos funcionales para la aplicación.
+- Realizar pruebas de usabilidad para validar y mejorar la interfaz de usuario.
+
+## Documentación
+- Mantener documentación detallada de todo el proceso de diseño, desde la investigación hasta la conceptualización y diseño de la interfaz.
+- Documentar claramente las decisiones de diseño y las justificaciones detrás de la elección de estilos visuales, tipografías y componentes de la interfaz.
+
+
+# Guía de Marketing Digital
+
+## Estrategia y Análisis
+- Realizar un análisis del sector/mercado para identificar la situación actual, competidores y soluciones sustitutivas, detectando oportunidades para el diseño del producto/servicio.
+- Investigar y definir los buyer/user personas, customer journey map, intereses y comportamiento online.
+
+## Desarrollo de la Propuesta de Valor
+- Construir la propuesta de valor y mensajes del producto/servicio para demostrar su poder transformacional.
+- Integrar la propuesta de valor en copies orientados (gain creators / pain relievers).
+
+## Modelo de Negocio y Branding
+- Definir, junto al resto del equipo, el modelo de negocio basándose en el análisis previo y la propuesta de valor.
+- Desarrollar el naming y branding, incluyendo la personalidad de marca, territorios, tono de comunicación, pilares de contenido y plan de contenidos.
+
+## Estrategia de Captación y CRM
+- Identificar datos y eventos clave para el seguimiento en la aplicación (plan de tracking mínimo).
+- Crear una estrategia de captación de usuarios/clientes, seleccionando canales y tácticas específicas, documentadas en un plan de medios.
+- Elaborar un plan de contacto para gestionar el CRM, detallando buyer persona, contexto, necesidad, canal, frecuencia y workflows de ejemplo.
+
+## Testing y Optimización
+- Sugerir pruebas de testing para mejorar la Conversión en las principales landing pages de conversión.
+
+## Directrices Específicas de Marketing Digital
+- Desarrollar una estrategia de marketing digital enfocada en atraer a nuevos asesores energéticos.
+- Crear y gestionar campañas de publicidad online, utilizando las tácticas y canales identificados en la estrategia.
+- Analizar continuamente el rendimiento de las campañas y optimizarlas basándose en los resultados obtenidos.
+
+## Documentación
+- Documentar todas las estrategias, planes y análisis realizados.
+- Mantener registros de las campañas y sus resultados para futuras referencias y mejoras continuas.
+
+
+
+
+
