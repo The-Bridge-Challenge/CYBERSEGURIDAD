@@ -43,19 +43,20 @@ Fortalecer los procesos de autenticación e identificación:
 
 ### 8. Software and Data Integrity Failures (A08)
 Verificar la integridad del software y los datos, especialmente en entornos de CI/CD:
-- Usar firmas digitales o hashes para verificar la integridad.
-- Asegurar que las actualizaciones y cambios de datos sean legítimos y autorizados.
+- Usar firmas digitales o hashes para verificar la integridad de los paquetes de software. Ejemplo: Verificar los hashes de las imágenes de Docker antes de desplegarlas.
+- Asegurar que las actualizaciones y cambios de datos sean legítimos y autorizados. Ejemplo: Revisar los cambios en los repositorios de código fuente para detectar modificaciones no autorizadas.
 
 ### 9. Security Logging and Monitoring Failures (A09)
 Establecer un sistema de registro y monitoreo para detectar y responder a incidentes de seguridad:
-- Registrar todas las actividades críticas.
-- Monitorizar los registros en busca de actividades sospechosas.
-- (Si da tiempo) Realizar pruebas de penetración básicas.
+- Registrar todas las actividades críticas. Ejemplo: Mantener registros detallados de los intentos de inicio de sesión y las transacciones de datos.
+- Monitorizar los registros en busca de actividades sospechosas. Ejemplo: Usar herramientas de análisis de logs para detectar patrones inusuales que puedan indicar un intento de intrusión.
+- (Si da tiempo) Realizar pruebas de penetración básicas. Ejemplo: Utilizar herramientas como OWASP ZAP para realizar escaneos automáticos de vulnerabilidades.
 
 ### 10. Server-Side Request Forgery (A10)
 Proteger contra la falsificación de solicitudes del lado del servidor:
-- Validar y verificar todas las solicitudes del servidor.
-- Restringir las solicitudes a recursos de confianza y externos.
+- Validar y verificar todas las solicitudes del servidor. Ejemplo: Restringir las solicitudes a un conjunto conocido de URL o dominios seguros y verificar la autenticidad de las solicitudes entrantes.
+- Restringir las solicitudes a recursos de confianza y externos. Ejemplo: Implementar listas de permitidos para limitar a qué servicios externos puede llamar el servidor.
+
 
 ## Nota Final
 Las actividades marcadas con "Si da tiempo" son para considerar en etapas finales del proyecto.
