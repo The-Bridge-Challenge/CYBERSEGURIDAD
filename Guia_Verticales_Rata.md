@@ -54,7 +54,7 @@
 ## Desarrollo y Directrices Específicas
 - **Arquitectura de la Solución:**
   - Crear y documentar la arquitectura de la solución, asegurando la implementación efectiva de la misma.
-  - Trabajar de la mano con el equipo de Ciberseguridad para determinar el nivel de seguridad adecuado.
+  - Trabajar lado a lado con el equipo de Ciberseguridad para determinar el nivel de seguridad adecuado. ( Nota: De que lado? ~~del que tengo aqui colg~~ cordinarse con ciberseguridad para que puedan revisar el código y evitar vulnerabilidades) 
   
 - **Desarrollo Frontend y Backend:**
   - Desarrollar el frontend de la aplicación utilizando React, enfocándose en un diseño mobile-first y SPA (single page application).
