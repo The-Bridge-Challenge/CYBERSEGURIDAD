@@ -11,35 +11,35 @@ Configurar controles de acceso para gestionar lo que los usuarios pueden hacer d
 - Verificar permisos en funciones críticas del servidor. Por ejemplo, confirmar que solo los usuarios con permisos puedan editar o borrar registros en la base de datos.
 
 ### 2. Cryptographic Failures (A02)
-Proteger los datos sensibles mediante cifrado adecuado. Esto implica:
-- Utilizar HTTPS en todas las comunicaciones.
-- Cifrar todos los datos sensibles almacenados, como contraseñas y datos personales.
+Proteger los datos sensibles mediante cifrado adecuado:
+- Utilizar HTTPS para todas las comunicaciones. Ejemplo: Asegurar que todas las conexiones al servidor de la aplicación se realicen a través de HTTPS.
+- Cifrar todos los datos sensibles almacenados. Ejemplo: Utilizar cifrado AES para almacenar información confidencial del usuario en la base de datos.
 
 ### 3. Injection (A03)
-Prevenir ataques de inyección, como SQL o XSS, mediante:
-- Uso de consultas parametrizadas y ORM/ODM para bases de datos. Por ejemplo, utilizar Sequelize para consultas SQL seguras.
-- Sanitización de todas las entradas de usuario. Por ejemplo, limpiar inputs de usuario en formularios web para prevenir XSS.
+Prevenir ataques de inyección, como SQL o XSS:
+- Utilizar consultas parametrizadas y ORM/ODM para bases de datos. Ejemplo: Utilizar Sequelize con consultas parametrizadas para interactuar con bases de datos SQL.
+- Sanitizar todas las entradas de usuario. Ejemplo: Aplicar librerías como DOMPurify en el frontend para limpiar los datos ingresados por el usuario y evitar XSS.
 
 ### 4. Insecure Design (A04)
 Incorporar prácticas de diseño seguro y modelado de amenazas desde el inicio:
-- Realizar modelado de amenazas en fases tempranas.
-- Aplicar principios de diseño seguro. Por ejemplo, seguir el principio de menor privilegio al asignar permisos de usuario.
+- Realizar modelado de amenazas en las fases tempranas del diseño. Ejemplo: Utilizar herramientas como Microsoft Threat Modeling Tool para identificar posibles vulnerabilidades.
+- Aplicar principios de diseño seguro. Ejemplo: Asegurar que la segregación de deberes se aplique en el diseño de la base de datos y la lógica del negocio.
 
 ### 5. Security Misconfiguration (A05)
 Evitar configuraciones inseguras en todos los niveles del software:
-- Revisar y asegurar la configuración predeterminada.
-- Mantener el software actualizado y parcheado.
+- Revisar y asegurar la configuración predeterminada. Ejemplo: Deshabilitar servicios innecesarios en el servidor web y cerrar puertos no utilizados.
+- Mantener el software actualizado y parcheado. Ejemplo: Aplicar regularmente actualizaciones de seguridad a todas las librerías y frameworks utilizados.
 - (Si da tiempo) Automatizar la configuración de seguridad.
 
 ### 6. Vulnerable and Outdated Components (A06)
 Mantener actualizados los componentes para evitar vulnerabilidades:
-- Utilizar herramientas para gestionar y actualizar dependencias. Por ejemplo, Dependabot en GitHub para actualizaciones automáticas.
-- Revisar regularmente las librerías y componentes. Por ejemplo, chequear el estado de seguridad de las librerías de Node.js usadas.
+- Utilizar herramientas para gestionar y actualizar dependencias. Ejemplo: Implementar Dependabot en GitHub para la gestión automática de dependencias.
+- Revisar regularmente las librerías y componentes. Ejemplo: Realizar auditorías periódicas de seguridad de las dependencias con herramientas como npm audit o Snyk.
 
 ### 7. Identification and Authentication Failures (A07)
 Fortalecer los procesos de autenticación e identificación:
-- Implementar autenticación robusta, incluyendo, si es posible, autenticación multifactor.
-- Asegurar la gestión segura de contraseñas y sesiones.
+- Implementar autenticación robusta. Ejemplo: Utilizar OAuth 2.0 o OpenID Connect para la gestión de identidades.
+- Asegurar la gestión segura de contraseñas y sesiones. Ejemplo: Implementar políticas de contraseña fuerte y usar JWT para el manejo de sesiones.
 
 ### 8. Software and Data Integrity Failures (A08)
 Verificar la integridad del software y los datos, especialmente en entornos de CI/CD:
