@@ -25,7 +25,7 @@
   - Definir la arquitectura de CD según el objetivo (Solo Dev, Dev y Prod).
 
 - **Despliegue de Infraestructura en la Nube:**
-  - Diseñar una infraestructura en la nube utilizando servicios de AWS, Azure o GCP.
+  - Diseñar una infraestructura en la nube utilizando servicios de GCP.
   - Documentar adecuadamente la arquitectura en las herramientas correspondientes.
 
 - **Utilización de Cloud Run:**
