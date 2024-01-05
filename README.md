@@ -1,43 +1,52 @@
-# Ciberseguridad para el Proyecto
+# Ciberseguridad
 
-## Contexto y Análisis
-- Comprender en detalle el contexto funcional de la aplicación para identificar elementos sensibles y potencialmente vulnerables.
-- Determinar el impacto técnico y de negocio de posibles brechas de seguridad.
-- Asegurar que el diseño sigue las buenas prácticas del Secure Software Development Life Cycle (SSDLC).
+## Contexto y Análisis de Riesgos
+- Analizar el contexto funcional de la aplicación para identificar elementos críticos y susceptibles a ataques.
+- Evaluar el impacto técnico y de negocio de posibles brechas de seguridad y asegurar que el diseño cumple con las buenas prácticas del SSDLC.
 
 ## Hardening y Configuración de Seguridad
-- Realizar hardening de los sistemas operativos Ubuntu en la nube y de los aplicativos utilizados, como Node.js y React.
-- Mantener actualizadas las configuraciones de seguridad y aplicar parches de forma regular.
-- Proponer y documentar una infraestructura de despliegue escalable, modular y extensible.
+- Realizar hardening en los sistemas operativos Ubuntu y en los aplicativos como Node.js y React.
+- Actualizar regularmente las configuraciones de seguridad y aplicar parches.
+- Diseñar una infraestructura de TI escalable, modular y extensible.
+
+## OWASP Top 10 y Pruebas de Seguridad
+Utilizar la metodología del OWASP Top 10 para identificar y mitigar las principales vulnerabilidades web. Los puntos a enfocar incluyen:
+- **A01:2021-Broken Access Control**
+- **A02:2021-Cryptographic Failures**
+- **A03:2021-Injection**
+- **A04:2021-Insecure Design**
+- **A05:2021-Security Misconfiguration**
+- **A06:2021-Vulnerable and Outdated Components**
+- **A07:2021-Identification and Authentication Failures**
+- **A08:2021-Software and Data Integrity Failures**
+- **A09:2021-Security Logging and Monitoring Failures**
+- **A10:2021-Server-Side Request Forgery (SSRF)**
+
+Además, implementar pruebas específicas de seguridad, incluyendo:
+- Information Gathering
+- Configuration and Deployment Management Testing
+- Identity Management Testing
+- Authentication Testing
+- Authorization Testing
+- Session Management Testing
+- Input Validation Testing
+- Error Handling Testing
+- Testing for Weak Cryptography
+- Business Logic Testing
+- Client-side Testing
+
+Ejecutar análisis de código estático y pruebas de penetración básicas para detectar vulnerabilidades.
 
 ## Autenticación y Control de Acceso
-- Implementar controles de acceso robustos y autenticación multifactor.
-- Realizar Identity Management Testing para asegurar la gestión adecuada de identidades y accesos.
+- Implementar autenticación multifactor y controles de acceso robustos.
 
-## Protección de Datos
-- Cifrar los datos sensibles, tanto en tránsito como en reposo.
-- Implementar y probar medidas para la validación de parámetros de entrada y manejo de errores.
+## Protección de Datos y Cumplimiento Normativo
+- Cifrar datos sensibles en tránsito y en reposo.
+- Asegurar el cumplimiento de normativas como GDPR.
 
-## Backup y Recuperación
-- Establecer y documentar una estrategia de backup, incluyendo cálculos de costes y periodos de conservación.
-- Analizar la sensibilidad de los datos almacenados.
+## Backup y Recuperación de Datos
+- Establecer una estrategia de backup, incluyendo costos y periodos de conservación.
 
-## Pruebas de Seguridad
-- Utilizar herramientas de análisis de código estático durante el desarrollo.
-- Realizar pruebas básicas de pentesting al finalizar el desarrollo.
-- Incluir pruebas específicas de:
-  1. Information Gathering.
-  2. Configuration and Deployment Management Testing.
-  3. Identity Management Testing.
-  4. Authentication Testing.
-  5. Authorization Testing.
-  6. Session Management Testing.
-  7. Input Validation Testing.
-  8. Error Handling Testing.
-  9. Testing for Weak Cryptography.
-  10. Business Logic Testing.
-  11. Client-side Testing.
-
-## Cumplimiento Normativo
-- Asegurar el cumplimiento con normativas como GDPR.
-- Documentar todos los procesos y políticas de seguridad implementados.
+## Documentación y Mejora Continua
+- Documentar todas las políticas y procedimientos de seguridad.
+- Mantener un enfoque de mejora continua en la seguridad del proyecto.
