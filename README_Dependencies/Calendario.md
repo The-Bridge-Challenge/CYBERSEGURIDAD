@@ -24,7 +24,7 @@
 | 6      | Delta       | Charlie, Delta, Echo          |
 
 
-| Sección del README                       | Índice de Tarea Específica |
+| Sección del [README](../README.md)        | Índice de Tarea Específica |
 |------------------------------------------|---------------------------|
 | 🕵️ Contexto y Análisis de Riesgos        | No aplica directamente    |
 | 🔐 Hardening y Configuración de Seguridad | No aplica directamente    |
