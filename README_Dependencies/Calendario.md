@@ -22,10 +22,10 @@
 | Índice | Responsable | Miembros del Equipo Asignados |
 | ------ | ----------- | ---------------------------- |
 | 2      | Alpha       | Alpha, Bravo, Charlie         |
-| 3      | Charlie     | Charlie, Delta, Echo          |
-| 4      | Bravo       | Foxtrot, Golf, Hotel          |
-| 5      | Echo        | India, Alpha, Bravo           |
-| 6      | Delta       | Charlie, Delta, Echo          |
+| 3      | Bravo       | Delta, Echo, Foxtrot          |
+| 4      | Charlie     | Alpha, Bravo, Delta           |
+| 5      | Delta       | Echo, Foxtrot, Alpha          |
+| 6      | Echo        | Bravo, Charlie, Delta         |
 
 ---
 
