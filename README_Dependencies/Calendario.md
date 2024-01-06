@@ -18,26 +18,15 @@
 
 ---
 
-## Asignación de Personal
-| Índice | Responsable | Miembros del Equipo Asignados |
-| ------ | ----------- | ---------------------------- |
-| 2      | Alpha       | Alpha, Bravo, Charlie         |
-| 3      | Bravo       | Delta, Echo, Foxtrot          |
-| 4      | Charlie     | Alpha, Bravo, Delta           |
-| 5      | Delta       | Echo, Foxtrot, Alpha          |
-| 6      | Echo        | Bravo, Charlie, Delta         |
-
-
-## Asignación de Identidades del Equipo
-
-| ID            | Esclavo                  |
-|---------------|--------------------------|
-| Alpha         | Antolín                  |
-| Bravo         | Antolín                  |
-| Charlie       | Antolín                  |
-| Delta         | Antolín                  |
-| Echo          | Antolín                  |
-| Foxtrot       | Antolín                  |
+## Asignación de Personal y de Identidades
+| Índice | Responsable | Miembros del Equipo Asignados | | ID            | Esclavo                  |
+| ------ | ----------- | ---------------------------- | |---------------|--------------------------|
+| 2      | Alpha       | Alpha, Bravo, Charlie         | | Alpha         | Antolín                  |
+| 3      | Bravo       | Delta, Echo, Foxtrot          | | Bravo         | Antolín                  |
+| 4      | Charlie     | Alpha, Bravo, Delta           | | Charlie       | Antolín                  |
+| 5      | Delta       | Echo, Foxtrot, Alpha          | | Delta         | Antolín                  |
+| 6      | Echo        | Bravo, Charlie, Delta         | | Echo          | Antolín                  |
+|        |             |                              | | Foxtrot       | Antolín                  |
 
 ---
 
