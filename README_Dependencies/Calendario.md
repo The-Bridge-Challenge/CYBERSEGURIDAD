@@ -17,12 +17,10 @@
 | **17 Ene**   | 6      | Protección de Datos y Cumplimiento Normativo: Cifrado de datos y aseguramiento del cumplimiento de GDPR. | 8-10h |
 
 ---
-
+# Asignación de Personal
 <table>
   <tr>
-    <td valign="top"> <!-- Asegura que el contenido comience desde la parte superior de la celda -->
-
-# Asignación de Personal
+    <td valign="top"> 
 | Índice | Responsable | Miembros del Equipo Asignados |
 | ------ | ----------- | ---------------------------- |
 | 2      | Alpha       | Alpha, Bravo, Charlie         |
@@ -32,9 +30,10 @@
 | 6      | Echo        | Bravo, Charlie, Delta         |
 
     </td>
-    <td valign="top"> <!-- Asegura que el contenido comience desde la parte superior de la celda -->
+ 
 
 # Asignación de Identidades del Equipo
+   <td valign="top">
 | ID del Miembro | Apellidos del Trabajador |
 |---------------|--------------------------|
 | Alpha         | Antolín                  |
