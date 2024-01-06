@@ -17,36 +17,34 @@
 | **17 Ene**   | 6      | Protección de Datos y Cumplimiento Normativo: Cifrado de datos y aseguramiento del cumplimiento de GDPR. | 8-10h |
 
 ---
-# Asignación de Personal
+
 <table>
   <tr>
     <td valign="top"> 
-| Índice | Responsable | Miembros del Equipo Asignados |
-| ------ | ----------- | ---------------------------- |
-| 2      | Alpha       | Alpha, Bravo, Charlie         |
-| 3      | Bravo       | Delta, Echo, Foxtrot          |
-| 4      | Charlie     | Alpha, Bravo, Delta           |
-| 5      | Delta       | Echo, Foxtrot, Alpha          |
-| 6      | Echo        | Bravo, Charlie, Delta         |
-
+      <h2>Asignación de Personal</h2>
+      <table>
+        <tr><th>Índice</th><th>Responsable</th><th>Miembros del Equipo Asignados</th></tr>
+        <tr><td>2</td><td>Alpha</td><td>Alpha, Bravo, Charlie</td></tr>
+        <tr><td>3</td><td>Bravo</td><td>Delta, Echo, Foxtrot</td></tr>
+        <tr><td>4</td><td>Charlie</td><td>Alpha, Bravo, Delta</td></tr>
+        <tr><td>5</td><td>Delta</td><td>Echo, Foxtrot, Alpha</td></tr>
+        <tr><td>6</td><td>Echo</td><td>Bravo, Charlie, Delta</td></tr>
+      </table>
     </td>
- 
-
-# Asignación de Identidades del Equipo
-   <td valign="top">
-| ID del Miembro | Apellidos del Trabajador |
-|---------------|--------------------------|
-| Alpha         | Antolín                  |
-| Bravo         | Antolín                  |
-| Charlie       | Antolín                  |
-| Delta         | Antolín                  |
-| Echo          | Antolín                  |
-| Foxtrot       | Antolín                  |
-
+    <td valign="top">
+      <h2>Asignación de Identidades del Equipo</h2>
+      <table>
+        <tr><th>ID del Miembro</th><th>Apellidos del Trabajador</th></tr>
+        <tr><td>Alpha</td><td>Antolín</td></tr>
+        <tr><td>Bravo</td><td>Antolín</td></tr>
+        <tr><td>Charlie</td><td>Antolín</td></tr>
+        <tr><td>Delta</td><td>Antolín</td></tr>
+        <tr><td>Echo</td><td>Antolín</td></tr>
+        <tr><td>Foxtrot</td><td>Antolín</td></tr>
+      </table>
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -57,9 +55,4 @@
 | 🌐 OWASP Top 10 y Pruebas de Seguridad     | 4                         |
 | 🚪 Autenticación y Control de Acceso       | 5                         |
 | 🛡️ Protección de Datos y Cumplimiento     | 6                         |
-| 💾 Backup y Recuperación de Datos          | No aplica directamente    |
-| 📝 Documentación y Mejora Continua         | No aplica directamente    |
-| Evaluación de Amenazas y Modelado de Riesgos | 2                        |
-| Registro y Monitoreo de la Seguridad       | 3                         |
-
----
+| 💾 Backup y Recuperación de Datos          | No aplica directamente   
