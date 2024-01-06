@@ -23,3 +23,16 @@
 | 5      | Echo        | India, Alpha, Bravo           |
 | 6      | Delta       | Charlie, Delta, Echo          |
 
+
+| Sección del README                       | Índice de Tarea Específica |
+|------------------------------------------|---------------------------|
+| 🕵️ Contexto y Análisis de Riesgos        | No aplica directamente    |
+| 🔐 Hardening y Configuración de Seguridad | No aplica directamente    |
+| 🌐 OWASP Top 10 y Pruebas de Seguridad    | 4                         |
+| 🚪 Autenticación y Control de Acceso      | 5                         |
+| 🛡️ Protección de Datos y Cumplimiento    | 6                         |
+| 💾 Backup y Recuperación de Datos         | No aplica directamente    |
+| 📝 Documentación y Mejora Continua        | No aplica directamente    |
+| Evaluación de Amenazas y Modelado de Riesgos | 2                       |
+| Registro y Monitoreo de la Seguridad      | 3                         |
+_
