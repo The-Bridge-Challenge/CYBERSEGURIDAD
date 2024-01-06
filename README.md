@@ -1,17 +1,25 @@
 # Ciberseguridad 🛡️
 
+---
+
 ## 📚 Guía de Verticales
-- Para obtener más información sobre las tecnologías y herramientas utilizadas en las distintas verticales y como van a organizar su trabajo, ~~TLTR: jugando al LoL o 'profundizando' en algunos videos online~~  consulta la [Guía de Verticales](Guia_Verticales_Simple.md). 📖
-- Y si eres un niño rata como yo consultar la [Guía de Verticales Extendida](Guia_Verticales_Rata.md).🐀
+- Para obtener más información sobre las tecnologías y herramientas utilizadas en las distintas verticales y como van a organizar su trabajo, consulta la [Guía de Verticales](Guia_Verticales_Simple.md). 📖
+- Y si eres un niño rata como yo, consulta la [Guía de Verticales Extendida](Guia_Verticales_Rata.md). 🐀
+
+---
 
 ## 🕵️ Contexto y Análisis de Riesgos
 - Analizar el contexto funcional de la aplicación para identificar elementos críticos y susceptibles a ataques.
 - Evaluar el impacto técnico y de negocio de posibles brechas de seguridad y asegurar que el diseño cumple con las buenas prácticas del SSDLC.
 
+---
+
 ## 🔐 Hardening y Configuración de Seguridad
 - Realizar hardening en los sistemas operativos Ubuntu y en los aplicativos como Node.js y React.
 - Actualizar regularmente las configuraciones de seguridad y aplicar parches.
 - Diseñar una infraestructura de TI escalable, modular y extensible.
+
+---
 
 ## 🌐 OWASP Top 10 y Pruebas de Seguridad
 Utilizar la metodología del OWASP Top 10 para identificar y mitigar las principales vulnerabilidades web. Los puntos a enfocar incluyen:
@@ -26,7 +34,7 @@ Utilizar la metodología del OWASP Top 10 para identificar y mitigar las princip
 > - A09:2021-Security Logging and Monitoring Failures
 > - A10:2021-Server-Side Request Forgery (SSRF)
 
- Guía detallada aplicada al proyecto nuestro en [Guía de Ciberseguridad OWASP Top 10](OWASP10_Guide.md).
+Guía detallada aplicada al proyecto nuestro en [Guía de Ciberseguridad OWASP Top 10](OWASP10_Guide.md).
 
 Además, implementar pruebas específicas de seguridad, incluyendo:
 - Information Gathering
@@ -43,16 +51,26 @@ Además, implementar pruebas específicas de seguridad, incluyendo:
 
 Ejecutar análisis de código estático y pruebas de penetración básicas para detectar vulnerabilidades.
 
+---
+
 ## 🚪 Autenticación y Control de Acceso
 - Implementar autenticación multifactor y controles de acceso robustos.
+
+---
 
 ## 🛡️ Protección de Datos y Cumplimiento Normativo
 - Cifrar datos sensibles en tránsito y en reposo.
 - Asegurar el cumplimiento de normativas como GDPR.
 
+---
+
 ## 💾 Backup y Recuperación de Datos
 - Establecer una estrategia de backup, incluyendo costos y periodos de conservación.
+
+---
 
 ## 📝 Documentación y Mejora Continua
 - Documentar todas las políticas y procedimientos de seguridad.
 - Mantener un enfoque de mejora continua en la seguridad del proyecto.
+
+---
