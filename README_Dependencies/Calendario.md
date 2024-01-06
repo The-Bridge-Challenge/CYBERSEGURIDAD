@@ -34,7 +34,7 @@
     <td valign="top">
       <h2>Asignación de Identidades del Equipo</h2>
       <table>
-        <tr><th>ID del Miembro</th><th>Apellidos del Trabajador</th></tr>
+        <tr><th>ID del Esclavo</th><th>Apellido del Esclavo</th></tr>
         <tr><td>Alpha</td><td>Antolín</td></tr>
         <tr><td>Bravo</td><td>Antolín</td></tr>
         <tr><td>Charlie</td><td>Antolín</td></tr>
