@@ -27,6 +27,18 @@
 | 5      | Delta       | Echo, Foxtrot, Alpha          |
 | 6      | Echo        | Bravo, Charlie, Delta         |
 
+
+## Asignación de Identidades del Equipo
+
+| ID            | Esclavo                  |
+|---------------|--------------------------|
+| Alpha         | Antolín                  |
+| Bravo         | Antolín                  |
+| Charlie       | Antolín                  |
+| Delta         | Antolín                  |
+| Echo          | Antolín                  |
+| Foxtrot       | Antolín                  |
+
 ---
 
 | Sección del [README](../README.md)        | Índice de Tarea Específica |
