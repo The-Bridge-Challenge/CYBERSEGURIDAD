@@ -4,7 +4,7 @@
 
 ## 📚 Guía de Verticales
 - Para obtener más información sobre las tecnologías y herramientas utilizadas en las distintas verticales y como van a organizar su trabajo, consulta la [Guía de Verticales](README_Dependencies/Guia_Verticales_Simple.md). 📖
-- Y si eres un niño rata como yo, consulta la [Guía de Verticales Extendida](README_Dependencies/Guia_Verticales_Rata.md). 🐀
+- Y si eres un niño rata como yo, consulta la [Guía de Verticales Extendida](README_Dependencies/Guia_Verticales_Rata.md) que he creado ( ahora la he puesto en los README de las demas verticales). 🐀
 
 ---
 
