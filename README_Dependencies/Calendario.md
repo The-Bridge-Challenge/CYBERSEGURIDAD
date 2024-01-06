@@ -18,28 +18,37 @@
 
 ---
 
-## Asignación de Personal y de Identidades
-| Índice | Responsable | Miembros del Equipo Asignados | | ID            | Esclavo                  |
-| ------ | ----------- | ---------------------------- | |---------------|--------------------------|
-| 2      | Alpha       | Alpha, Bravo, Charlie         | | Alpha         | Antolín                  |
-| 3      | Bravo       | Delta, Echo, Foxtrot          | | Bravo         | Antolín                  |
-| 4      | Charlie     | Alpha, Bravo, Delta           | | Charlie       | Antolín                  |
-| 5      | Delta       | Echo, Foxtrot, Alpha          | | Delta         | Antolín                  |
-| 6      | Echo        | Bravo, Charlie, Delta         | | Echo          | Antolín                  |
-|        |             |                              | | Foxtrot       | Antolín                  |
+## Asignación de Personal
+| Índice | Responsable | Miembros del Equipo Asignados |
+| ------ | ----------- | ---------------------------- |
+| 2      | Alpha       | Alpha, Bravo, Charlie         |
+| 3      | Bravo       | Delta, Echo, Foxtrot          |
+| 4      | Charlie     | Alpha, Bravo, Delta           |
+| 5      | Delta       | Echo, Foxtrot, Alpha          |
+| 6      | Echo        | Bravo, Charlie, Delta         |
+
+## Asignación de Identidades del Equipo
+| ID del Miembro | Apellidos del Trabajador |
+|---------------|--------------------------|
+| Alpha         | Antolín                  |
+| Bravo         | Antolín                  |
+| Charlie       | Antolín                  |
+| Delta         | Antolín                  |
+| Echo          | Antolín                  |
+| Foxtrot       | Antolín                  |
 
 ---
 
-| Sección del [README](../README.md)        | Índice de Tarea Específica |
-|------------------------------------------|---------------------------|
-| 🕵️ Contexto y Análisis de Riesgos        | No aplica directamente    |
-| 🔐 Hardening y Configuración de Seguridad | No aplica directamente    |
-| 🌐 OWASP Top 10 y Pruebas de Seguridad    | 4                         |
-| 🚪 Autenticación y Control de Acceso      | 5                         |
-| 🛡️ Protección de Datos y Cumplimiento    | 6                         |
-| 💾 Backup y Recuperación de Datos         | No aplica directamente    |
-| 📝 Documentación y Mejora Continua        | No aplica directamente    |
-| Evaluación de Amenazas y Modelado de Riesgos | 2                       |
-| Registro y Monitoreo de la Seguridad      | 3                         |
+| Sección del [README](../README.md)         | Índice de Tarea Específica |
+|-------------------------------------------|---------------------------|
+| 🕵️ Contexto y Análisis de Riesgos         | No aplica directamente    |
+| 🔐 Hardening y Configuración de Seguridad  | No aplica directamente    |
+| 🌐 OWASP Top 10 y Pruebas de Seguridad     | 4                         |
+| 🚪 Autenticación y Control de Acceso       | 5                         |
+| 🛡️ Protección de Datos y Cumplimiento     | 6                         |
+| 💾 Backup y Recuperación de Datos          | No aplica directamente    |
+| 📝 Documentación y Mejora Continua         | No aplica directamente    |
+| Evaluación de Amenazas y Modelado de Riesgos | 2                        |
+| Registro y Monitoreo de la Seguridad       | 3                         |
 
 ---
