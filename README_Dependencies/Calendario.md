@@ -47,6 +47,7 @@
 </table>
 
 ---
+---
 
 | Sección del [README](../README.md)         | Índice de Tarea Específica |
 |-------------------------------------------|---------------------------|
@@ -55,4 +56,9 @@
 | 🌐 OWASP Top 10 y Pruebas de Seguridad     | 4                         |
 | 🚪 Autenticación y Control de Acceso       | 5                         |
 | 🛡️ Protección de Datos y Cumplimiento     | 6                         |
-| 💾 Backup y Recuperación de Datos          | No aplica directamente   
+| 💾 Backup y Recuperación de Datos          | No aplica directamente    |
+| 📝 Documentación y Mejora Continua         | No aplica directamente    |
+| Evaluación de Amenazas y Modelado de Riesgos | 2                        |
+| Registro y Monitoreo de la Seguridad       | 3                         |
+
+---
