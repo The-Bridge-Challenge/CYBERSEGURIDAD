@@ -18,7 +18,11 @@
 
 ---
 
-## Asignación de Personal
+<table>
+  <tr>
+    <td valign="top"> <!-- Asegura que el contenido comience desde la parte superior de la celda -->
+
+# Asignación de Personal
 | Índice | Responsable | Miembros del Equipo Asignados |
 | ------ | ----------- | ---------------------------- |
 | 2      | Alpha       | Alpha, Bravo, Charlie         |
@@ -27,7 +31,10 @@
 | 5      | Delta       | Echo, Foxtrot, Alpha          |
 | 6      | Echo        | Bravo, Charlie, Delta         |
 
-## Asignación de Identidades del Equipo
+    </td>
+    <td valign="top"> <!-- Asegura que el contenido comience desde la parte superior de la celda -->
+
+# Asignación de Identidades del Equipo
 | ID del Miembro | Apellidos del Trabajador |
 |---------------|--------------------------|
 | Alpha         | Antolín                  |
@@ -36,6 +43,11 @@
 | Delta         | Antolín                  |
 | Echo          | Antolín                  |
 | Foxtrot       | Antolín                  |
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
