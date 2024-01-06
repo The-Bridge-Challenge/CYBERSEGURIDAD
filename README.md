@@ -8,6 +8,11 @@
 
 ---
 
+## 📅 Calendario de Actividades
+- Consulta nuestro [Calendario de Ciberseguridad](README_Dependencies/Calendario.md) para ver la planificación detallada de nuestras tareas y responsabilidades. ⏳
+
+---
+
 ## 🕵️ Contexto y Análisis de Riesgos
 - Analizar el contexto funcional de la aplicación para identificar elementos críticos y susceptibles a ataques.
 - Evaluar el impacto técnico y de negocio de posibles brechas de seguridad y asegurar que el diseño cumple con las buenas prácticas del SSDLC.
