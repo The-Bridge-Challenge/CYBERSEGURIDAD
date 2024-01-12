@@ -36,8 +36,8 @@ Falta decidir quien hace que y responsables de cada tarea. De momento lo hace to
       <h2>Asignación de Identidades del Equipo</h2>
       <table>
         <tr><th>ID del Esclavo</th><th>Apellido del Esclavo</th></tr>
-        <tr><td>Alpha</td><td>Antolín</td></tr>
-        <tr><td>Bravo</td><td>Antolín</td></tr>
+        <tr><td>Alpha</td><td>Santilari</td></tr>
+        <tr><td>Bravo</td><td>Savilov</td></tr>
         <tr><td>Charlie</td><td>Antolín</td></tr>
         <tr><td>Delta</td><td>Antolín</td></tr>
         <tr><td>Echo</td><td>Antolín</td></tr>
