@@ -25,11 +25,11 @@ Falta decidir quien hace que y responsables de cada tarea. De momento lo hace to
       <h2>Asignación de Personal</h2>
       <table>
         <tr><th>Índice</th><th>Responsable</th><th>Miembros del Equipo Asignados</th></tr>
-        <tr><td>2</td><td>Alpha</td><td>Alpha, Bravo, Charlie</td></tr>
-        <tr><td>3</td><td>Bravo</td><td>Delta, Echo, Foxtrot</td></tr>
-        <tr><td>4</td><td>Charlie</td><td>Alpha, Bravo, Delta</td></tr>
-        <tr><td>5</td><td>Delta</td><td>Echo, Foxtrot, Alpha</td></tr>
-        <tr><td>6</td><td>Echo</td><td>Bravo, Charlie, Delta</td></tr>
+        <tr><td>2</td><td>Alpha</td><td>Alpha, Charlie, ~~Foxtrot~~</td></tr>
+        <tr><td>3</td><td>Bravo</td><td>Charlie, Echo</td></tr>
+        <tr><td>4</td><td>Charlie</td><td>_</td></tr>
+        <tr><td>5</td><td>Delta</td><td>Alpha</td></tr>
+        <tr><td>6</td><td>Echo</td><td>Delta, Echo</td></tr>
       </table>
     </td>
     <td valign="top">
