@@ -39,9 +39,9 @@ Falta decidir quien hace que y responsables de cada tarea. De momento lo hace to
         <tr><td>Alpha</td><td>Santilari</td></tr>
         <tr><td>Bravo</td><td>Savilov</td></tr>
         <tr><td>Charlie</td><td>Antolín</td></tr>
-        <tr><td>Delta</td><td>Antolín</td></tr>
-        <tr><td>Echo</td><td>Antolín</td></tr>
-        <tr><td>Foxtrot</td><td>Antolín</td></tr>
+        <tr><td>Delta</td><td>Dwidar</td></tr>
+        <tr><td>Echo</td><td>Tejedor</td></tr>
+        <tr><td>Foxtrot</td><td>Sebas</td></tr>
       </table>
     </td>
   </tr>
