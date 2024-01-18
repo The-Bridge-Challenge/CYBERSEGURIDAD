@@ -91,3 +91,58 @@ Visita [este enlace](https://cloudbuilds-client-folgybvrpq-ew.a.run.app/) para a
 - Raúl 🧑
 
 ¡Gracias por contribuir al desarrollo de este proyecto! Siéntete libre de proponer nuevas funciones, reportar problemas o contribuir con mejoras ✨.
+
+## **Marketing 📣**
+
+### **Estrategia y Análisis 📊**
+- Realizamos un análisis de mercado 🌍 y definimos buyer/user personas, customer journey map y comportamiento online 🧑‍💻.
+
+### **Desarrollo de la Propuesta de Valor 🚀**
+- Construimos la propuesta de valor y mensajes del producto/servicio 📢.
+- Integración de la propuesta de valor en copies orientados 📝.
+
+### **Modelo de Negocio y Branding 💼**
+- Definimos el modelo de negocio y desarrollamos naming y branding 🌟.
+- Establecimos personalidad de marca, tono de comunicación y plan de contenidos 🗣️.
+
+### **Estrategia de Captación y CRM 🎯**
+- Identificamos datos clave para seguimiento en la aplicación 📲.
+- Creamos una estrategia de captación de usuarios/clientes y un plan de contacto para gestionar el CRM 💬.
+
+### **Testing y Optimización 🧪**
+- Sugerimos pruebas de testing para mejorar la conversión en las principales landing pages 📉.
+
+### **Directrices Específicas de Marketing Digital 🌟**
+- Desarrollamos una estrategia de marketing digital centrada en atraer nuevos asesores energéticos 🔌.
+- Creamos y gestionamos campañas de publicidad online 📱.
+- Analizamos y optimizamos el rendimiento de las campañas según los resultados obtenidos 🔍.
+
+### **Documentación 📄**
+- Documentamos todas las estrategias, planes y análisis 📚.
+- Mantenemos registros de campañas y resultados para referencias futuras y mejoras continuas 🔄.
+
+## **UX/UI 🎨**
+
+### **Descubrimiento 🌐**
+- Identificamos la problemática y definimos el target 🔍.
+- Realizamos benchmarking y entrevistas para obtener insights valiosos 💡.
+
+### **Estrategia 🚀**
+- Utilizamos el Value Proposition Canvas para definir la propuesta de valor 🎯.
+- Modelo de negocio centrado en ofrecer un método de trabajo eficiente para la asesoría energética 💼.
+
+### **Ideación y Conceptualización 💡**
+- Realizamos sesiones de brainstorming para generar ideas 🧠.
+- Creación de flujos de usuario para comprender las interacciones 👥.
+
+### **Diseño 🎨**
+- Desarrollamos una imagen de marca sólida con logotipo, colores y tipografía definidos 🖌️.
+- ¡Explora el [sistema de diseño en Figma](https://www.figma.com/file/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=4%3A183&mode=design&t=49I7qr5lafqLVkFq-1) para obtener más detalles!
+
+### **Interacción y Prototipado 🔄**
+- Creamos un [prototipo funcional en Figma](https://www.figma.com/proto/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=922-8739&t=TyYhot5r1ZOg2VFU-1&scaling=scale-down&page-id=933%3A5889&starting-point-node-id=922%3A8739&mode=design).
+
+### **Proceso de Trabajo 🚀**
+- Seguimos un proceso detallado que puedes explorar [aquí en Figma](https://www.figma.com/file/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=0%3A1&mode=design&t=49I7qr5lafqLVkFq-1).
+
+Este proyecto integrado es el resultado de la colaboración y la sinergia entre las distintas verticales. Cada una aportó su experiencia única para construir un producto completo y efectivo. ¡Esperamos que disfrutes explorando nuestro trabajo! 🚀
