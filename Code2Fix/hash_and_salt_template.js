@@ -8,4 +8,4 @@ async function hashPassword(password) {
 
 async function checkPassword(password, hashedPassword) {
     const isValidPassword = await bcrypt.compare(password, hashedPassword);
-    return isValidPassword;
+    return isValidPassword
