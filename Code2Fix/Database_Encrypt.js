@@ -58,3 +58,15 @@ connection.query('SELECT * FROM tu_tabla WHERE id = ?', [1], function (error, re
 });
 
 connection.end();
+
+async function hashPassword(password) {
+  const salt = await bcrypt.genSalt(10);
+  const hashedPassword = await bcrypt.hash(password, salt);
+  return hashedPassword;
+}
+
+async function checkPassword(password, hashedPassword) {
+  const isValidPassword = await bcrypt.compare(password, hashedPassword);
+  return isValidPassword;
+}
+
