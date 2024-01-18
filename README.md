@@ -79,5 +79,6 @@ Ejecutar análisis de código estático y pruebas de penetración básicas para 
 ## 📝 Documentación y Mejora Continua
 - Documentar todas las políticas y procedimientos de seguridad.
 - Mantener un enfoque de mejora continua en la seguridad del proyecto.
+- Propuestas de seguridad para arreglar el código realizadas: [Codigo Vulnerable](https://github.com/The-Bridge-Challenge/CYBERSEGURIDAD/tree/main/Code2Fix)
 
 ---
