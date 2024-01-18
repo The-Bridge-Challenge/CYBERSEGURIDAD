@@ -1,5 +1,5 @@
 # Calendario de Ciberseguridad PROVISIONAL (9 al 17 de Enero)
-Falta decidir quien hace que y responsables de cada tarea. De momento lo hace todo Antolín.
+Para ver la Organización definitiva y asignación de tareas consultar trello: https://trello.com/b/uf1keDr3/cyberautismo
 
 ---
 
